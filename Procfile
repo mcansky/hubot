@@ -1,1 +1,1 @@
-web:     node web.js -a irc
+app: bin/hubot -a irc
