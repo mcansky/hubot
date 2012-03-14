@@ -1,1 +1,1 @@
-["redis-brain.coffee", "tweet.coffee", "shipit.coffee", "google.coffee", "yoda-quotes.coffee", "polite.coffee", "tell.coffee", "help.coffee"]
+["rules.coffee", "google.coffee", "yoda-quotes.coffee", "polite.coffee", "tell.coffee", "help.coffee"]
